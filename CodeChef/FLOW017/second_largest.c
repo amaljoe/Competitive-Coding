@@ -1,3 +1,7 @@
+// Three numbers A, B and C are the inputs. Write a program to find second largest among them.
+
+// https://www.codechef.com/problems/FLOW017
+
 #include <stdio.h>
 
 #define TMAX 1000
